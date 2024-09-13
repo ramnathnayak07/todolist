@@ -23,7 +23,7 @@ Clone the Repository
 To get a copy of this project, run the following commands in your terminal:
 
  ```bash
-    git clone https://github.com/your-username/todo-list-app.git
+    git clone https://github.com/ramnathnayak07/todolist-app.git
     cd todo-list-app
 ```
 
