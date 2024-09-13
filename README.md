@@ -2,6 +2,8 @@
 
 This is a simple, user-friendly To-Do List web application built using HTML, CSS, and JavaScript. It allows users to manage their tasks efficiently, including adding, editing, marking tasks as completed, and deleting them. The app uses the browser's LocalStorage to save tasks, so tasks persist even when the page is reloaded.
 
+To view Project: <a href="https://ramnathnayak07.github.io/todolist/">Click here</a><br>
+
 ## Features
 
 - **Frontend**: A clean and stylish contact form interface built using HTML, CSS, and JavaScript.
@@ -11,12 +13,13 @@ This is a simple, user-friendly To-Do List web application built using HTML, CSS
 
 ## Technologies Used
 
-HTML5: Markup language for structuring the web page.
-CSS3: Used for styling the app, including flexbox and grid for layout.
-JavaScript: Adds functionality to the app, including dynamic task management and interaction with LocalStorage.
-Google Fonts: Provides custom fonts for better UI/UX.
+- HTML5: Markup language for structuring the web page.
+- CSS3: Used for styling the app, including flexbox and grid for layout.
+- JavaScript: Adds functionality to the app, including dynamic task management and interaction with LocalStorage.
+- Google Fonts: Provides custom fonts for better UI/UX.
 
 Clone the Repository
+
 To get a copy of this project, run the following commands in your terminal:
 
  ```bash
