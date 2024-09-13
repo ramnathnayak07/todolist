@@ -22,7 +22,7 @@ To get a copy of this project, run the following commands in your terminal:
  ```bash
     git clone https://github.com/your-username/todo-list-app.git
     cd todo-list-app
-    ```
+```
 
 Run the Project
 
