@@ -19,8 +19,11 @@ Google Fonts: Provides custom fonts for better UI/UX.
 Clone the Repository
 To get a copy of this project, run the following commands in your terminal:
 
-git clone https://github.com/your-username/todo-list-app.git
-cd todo-list-app
+ ```bash
+    git clone https://github.com/your-username/todo-list-app.git
+    cd todo-list-app
+    ```
+
 Run the Project
 
 Once you’ve cloned the project, open the index.html file in any modern web browser to run the application.
